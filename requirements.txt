@@ -1,0 +1,10 @@
+agno
+groq
+duckduckgo-search
+pydantic
+duckdb
+python-dotenv
+sentence-transformers
+fastapi
+uvicorn
+rich
